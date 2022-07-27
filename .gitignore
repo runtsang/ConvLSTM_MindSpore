@@ -1,0 +1,8 @@
+save_model/
+__pycache__/
+data/__pycache__
+data/mnist_test_seq.npy
+data/train-images-idx3-ubyte.gz
+runs/
+src/__pycache__
+utils/__pycache__
