@@ -34,7 +34,7 @@ parser.add_argument('-frames_output',
                     type=int,
                     help='sum of predict frames')
 parser.add_argument('-checkpoints',
-                    default='checkpoint_62_0.000998.ckpt',
+                    default='checkpoint_66_0.000961.ckpt',
                     type=str,
                     help='use which checkpoints')
 parser.add_argument('-epochs', default=500, type=int, help='sum of epochs')
